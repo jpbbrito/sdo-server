@@ -21,7 +21,7 @@
     "graphql": "14.4.2",
     "graphql-tools": "4.0.5",
     "jsonwebtoken": "8.5.1",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "mysql2": "^1.7.0",
     "sequelize": "^6.0.0"
   },
